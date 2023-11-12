@@ -1,0 +1,12 @@
+db.documents.find()
+db.getCollectionNames()
+use mydatabase
+db.getCollectionNames()
+use mydatabase
+db.getName
+db
+db.getCollectionNames()
+ls
+db.getCollectionNames()
+exit
+db.getCollectionNames()
